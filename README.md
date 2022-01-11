@@ -2,7 +2,8 @@
 
 
 # Bitcoin Ticker 🤑
-
+# What We Create
+A Bitcoin Ticker App that convert different curriences into different Bitcoins Available in Market
 
 
 
